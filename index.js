@@ -1,6 +1,6 @@
 var katzDeliLine=[];
 
-console.log(katzDeli[length])
+console.log(katzDeliLine[length])
 
 function takeANumber(N,name){
   return 

@@ -1,4 +1,4 @@
-var katzDeliLine=[];
+var katzDeliLine=new Object();
 
 console.log(takeANumber(katzDeliLine,"Fred"))
 

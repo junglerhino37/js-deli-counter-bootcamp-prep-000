@@ -2,6 +2,6 @@ var katzDeliLine=[];
 
 console.log(katzDeliLine.length)
 
-function takeANumber(N,name){
+function takeANumber(katzDeli,name){
   return 
 }

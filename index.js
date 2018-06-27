@@ -2,7 +2,6 @@ var katzDeliLine={};
 
 console.log(takeANumber(katzDeliLine,"Fred"))
 
-function takeANumber(line,newName){
-  line.name=
-  return line
+function takeANumber(obj,value){
+  return Object.assign({}, obj, { [names]: value })
 }

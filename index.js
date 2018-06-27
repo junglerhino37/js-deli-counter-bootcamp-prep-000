@@ -1,8 +1,8 @@
 var katzDeliLine={};
-katzDeliLine.name={};
+katzDeliLine.names={};
 
 console.log(takeANumber(katzDeliLine,"Fred"))
 
 function takeANumber(obj,value){
-  return Object.assign({}, obj, { [names]: value })
+  return Object.assign({}, obj, { names: value })
 }

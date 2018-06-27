@@ -1,8 +1,7 @@
 var katzDeliLine=[];
 
-console.log(takeANumber(katzDeliLine.length,"Fred"))
+console.log(takeANumber(katzDeliLine,"Fred"))
 
 function takeANumber(line,name){
-  console.log(line)
   return line
 }
